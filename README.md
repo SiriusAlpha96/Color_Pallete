@@ -1,4 +1,3 @@
-# Color_Pallete
+### Color_Pallete
 
-Here, I use Html, Css and Javascript to create the color pallete projects.
-
+######Here, I use Html, Css and Javascript to create the color pallete projects.
