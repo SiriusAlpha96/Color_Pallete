@@ -1,5 +1,7 @@
 ### Color_Pallete
 
+###### This is simple color_pallete using html, css and javascript.
+
 ###### HTML, CSS , JAVASCRIPT
 
 Here, I use Html, Css and Javascript to create the color pallete projects.
