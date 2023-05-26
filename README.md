@@ -1,6 +1,6 @@
 ### Color_Pallete
 
-###### This is simple color_pallete using html, css and javascript.
+###### This is simple color pallete using html, css and javascript.
 
 ###### HTML, CSS , JAVASCRIPT
 
